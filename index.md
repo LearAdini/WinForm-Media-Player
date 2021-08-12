@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# WinForm-Media-Player
+A C# Program to play a MP4 file.
 
-You can use the [editor on GitHub](https://github.com/LearAdini/WinForm-Media-Player/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a MP4 player I made in C# WinForm.
+This was a class project only that they ask me to do the button's logic and not make it actually play some audio file.
+So I said to myself why not make it playable?, so I did. I know its really basic stuff but just sharing my home works ;)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To open the media player go to OPButtonForm\OPButtonForm\bin\Debug and then OpButtonform.exe
 
-### Markdown
+you can view the code and edit it to your liking.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![opb](https://user-images.githubusercontent.com/80118008/125911536-36f37850-81d7-47ab-a285-0348afd7f339.PNG)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LearAdini/WinForm-Media-Player/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![opb2](https://user-images.githubusercontent.com/80118008/125915309-31ec9098-9703-4ee0-896b-4cf5f982bf1f.PNG)
